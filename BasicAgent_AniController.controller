@@ -86,7 +86,7 @@ BlendTree:
   m_PrefabInternal: {fileID: 0}
   m_Name: Blend Tree
   m_Childs:
-  - m_Motion: {fileID: 7400000, guid: c781df82513a9454d936f149c85ca566, type: 3}
+  - m_Motion: {fileID: 7400000, guid: e2023d2434095984ca1c942f4e1f8e42, type: 3}
     m_Threshold: -1
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -5432,7 +5432,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400000, guid: ba1c22aca3d7f6043b3b78fbe93a4059, type: 3}
+  - {fileID: 7400000, guid: e56535df3427cd54aa7f456353071391, type: 3}
   m_ParentStateMachine: {fileID: 110700000}
   m_Position: {x: 168, y: 240, z: 0}
   m_IKOnFeet: 1
