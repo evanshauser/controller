@@ -93,7 +93,7 @@ BlendTree:
     m_CycleOffset: .5
     m_IsAnim: 1
     m_Mirror: 1
-  - m_Motion: {fileID: 7400000, guid: 106e45a36a659f141ac5f01ffcb8923e, type: 3}
+  - m_Motion: {fileID: 7400000, guid: 7259571fbebc7dd44ad2a8add3750100, type: 3}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -202,7 +202,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -866,7 +866,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -1150,7 +1150,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -1426,7 +1426,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -1446,7 +1446,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -1466,7 +1466,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -2778,7 +2778,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -3274,7 +3274,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -3502,7 +3502,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -3610,7 +3610,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -3954,7 +3954,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -4098,7 +4098,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -4162,7 +4162,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -4310,7 +4310,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -4558,7 +4558,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -5098,7 +5098,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -5558,7 +5558,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -5866,7 +5866,7 @@ Transition:
   - m_ConditionMode: 5
     m_ConditionEvent: Action
     m_EventTreshold: 0
-    m_ExitTime: .899999976
+    m_ExitTime: 1
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
