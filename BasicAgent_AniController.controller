@@ -65,7 +65,7 @@ AnimatorController:
     m_SyncedLayerIndex: -1
     m_StateMachineMotionSetIndex: 0
     m_DefaultWeight: 0
-    m_IKPass: 0
+    m_IKPass: 1
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 3
@@ -110,7 +110,7 @@ BlendTree:
   m_BlendParameter: Angle
   m_BlendParameterY: Speed
   m_MinThreshold: -1
-  m_MaxThreshold: 2
+  m_MaxThreshold: 1
   m_UseAutomaticThresholds: 0
   m_BlendType: 0
 --- !u!206 &20655762
@@ -6904,7 +6904,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400000, guid: 9e3dfba5da7ac304ba1a1e1dea88e047, type: 3}
+  - {fileID: 7400004, guid: e99d147de365b174887047ff39fbfdb6, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   m_ParentStateMachine: {fileID: 110746336}
@@ -7422,7 +7422,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400004, guid: bc3d8682e8071d348b5ea755dd9469c3, type: 3}
+  - {fileID: 7400002, guid: 87c44c5d30672334aaf5a0304f7a7e30, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   m_ParentStateMachine: {fileID: 110742141}
@@ -7725,7 +7725,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400000, guid: bc3d8682e8071d348b5ea755dd9469c3, type: 3}
+  - {fileID: 7400000, guid: 87c44c5d30672334aaf5a0304f7a7e30, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   m_ParentStateMachine: {fileID: 110746336}
@@ -8688,7 +8688,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400002, guid: bc3d8682e8071d348b5ea755dd9469c3, type: 3}
+  - {fileID: 7400004, guid: 87c44c5d30672334aaf5a0304f7a7e30, type: 3}
   - {fileID: 0}
   m_ParentStateMachine: {fileID: 110746029}
   m_Position: {x: 1020, y: -72, z: 0}
@@ -9273,7 +9273,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400002, guid: 9e3dfba5da7ac304ba1a1e1dea88e047, type: 3}
+  - {fileID: 7400000, guid: e99d147de365b174887047ff39fbfdb6, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   m_ParentStateMachine: {fileID: 110742141}
@@ -9439,7 +9439,7 @@ State:
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400004, guid: 9e3dfba5da7ac304ba1a1e1dea88e047, type: 3}
+  - {fileID: 7400002, guid: e99d147de365b174887047ff39fbfdb6, type: 3}
   - {fileID: 0}
   m_ParentStateMachine: {fileID: 110746029}
   m_Position: {x: 1020, y: -36, z: 0}
